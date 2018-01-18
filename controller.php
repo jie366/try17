@@ -5,5 +5,5 @@
 */
 function lists()
 {
-	
+	echo 111;
 }
