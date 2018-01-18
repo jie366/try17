@@ -1,3 +1,13 @@
 <?php
 
-echo 111111111;
+/**
+* 
+*/
+class ClassName extends AnotherClass
+{
+	
+	function __construct(argument)
+	{
+		# code...
+	}
+}
