@@ -1,13 +1,9 @@
 <?php
 
 /**
-* 
+* 2018/1/18, 刚刚
 */
-class ClassName extends AnotherClass
+function lists()
 {
 	
-	function __construct(argument)
-	{
-		# code...
-	}
 }
